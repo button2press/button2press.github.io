@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/static/js/app.09ad737a.chunk.js",
-    "app.js.map": "/static/js/app.09ad737a.chunk.js.map",
+    "app.js": "/static/js/app.a95e3277.chunk.js",
+    "app.js.map": "/static/js/app.a95e3277.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.27401809.js",
     "runtime~app.js.map": "/static/js/runtime~app.27401809.js.map",
-    "static/js/2.cc3ce7bb.chunk.js": "/static/js/2.cc3ce7bb.chunk.js",
-    "static/js/2.cc3ce7bb.chunk.js.map": "/static/js/2.cc3ce7bb.chunk.js.map",
+    "static/js/2.23d7ed36.chunk.js": "/static/js/2.23d7ed36.chunk.js",
+    "static/js/2.23d7ed36.chunk.js.map": "/static/js/2.23d7ed36.chunk.js.map",
     "fonts/NotoSans-ExtraLight.ttf": "/./fonts/NotoSans-ExtraLight.ttf",
     "fonts/NotoSans-Light.ttf": "/./fonts/NotoSans-Light.ttf",
     "fonts/NotoSans-Medium.ttf": "/./fonts/NotoSans-Medium.ttf",
@@ -15,13 +15,13 @@
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "static/js/2.cc3ce7bb.chunk.js.LICENSE.txt": "/static/js/2.cc3ce7bb.chunk.js.LICENSE.txt",
+    "static/js/2.23d7ed36.chunk.js.LICENSE.txt": "/static/js/2.23d7ed36.chunk.js.LICENSE.txt",
     "static/media/button-penalty.mp3": "/static/media/button-penalty.a7d1e638.mp3",
     "static/media/button-press.mp3": "/static/media/button-press.34c1e086.mp3"
   },
   "entrypoints": [
     "static/js/runtime~app.27401809.js",
-    "static/js/2.cc3ce7bb.chunk.js",
-    "static/js/app.09ad737a.chunk.js"
+    "static/js/2.23d7ed36.chunk.js",
+    "static/js/app.a95e3277.chunk.js"
   ]
 }
